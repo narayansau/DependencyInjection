@@ -63,7 +63,7 @@ public class Alien{
 	{
 		System.out.println( " Show my Alien !!!!" );
 		System.out.println( toString() );
-		myLaptop.compile();
+	//	myLaptop.compile();
 }
 	
 	@Override
